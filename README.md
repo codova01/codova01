@@ -24,7 +24,7 @@
 
 ![](https://komarev.com/ghpvc/?username=codova01&label=Profile%20Views&color=7FFFD4&style=flat)
 
-![snake gif](https://github.com/codova01/codova01/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/codova01/codova01/blob/output/github-contribution-grid-snake.svg)
 
 
 
