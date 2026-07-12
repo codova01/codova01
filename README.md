@@ -1,5 +1,8 @@
 # 💫 About Me:
-💻 Computer Science Engineering student with a strong interest in backend development, cloud computing, and artificial intelligence.<br>🚀 Passionate about building scalable and impactful solutions using Python, AWS, Supabase, and modern development tools.<br>🌱 Continuously exploring new technologies, strengthening problem-solving skills, and turning ideas into practical applications.<br>🤝 Open to collaborating on innovative projects, open-source contributions, and opportunities that drive learning and growth.
+💻 Computer Science Engineering student with a strong interest in backend development, cloud computing, and artificial intelligence.
+<br>🚀 Passionate about building scalable and impactful solutions using Python, AWS, Supabase, and modern development tools.
+<br>🌱 Continuously exploring new technologies, strengthening problem-solving skills, and turning ideas into practical applications.
+<br>🤝 Open to collaborating on innovative projects, open-source contributions, and opportunities that drive learning and growth.
 
 
 ## 🌐 Socials:
