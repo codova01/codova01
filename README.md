@@ -12,6 +12,52 @@
 ![](https://streak-stats.demolab.com/?user=codova01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=codova01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## ⚡ Beyond Code
+
+♟️ I enjoy playing chess and love the strategy, patience, and problem-solving it teaches.
+
+🏊 Swimming is my favorite way to recharge and challenge myself.
+
+📚 A passionate reader who can spend hours getting lost in novels, poetry, and stories from different worlds.
+
+✍️ I write technical blogs and enjoy sharing what I learn through writing.
+
+🌱 Constantly curious — you'll often find me exploring a new topic, learning a random fact, or picking up a new skill.
+
+---
+
+## 🎯 Current Focus
+
+📖 Learning:
+- Data Structures & Algorithms
+- Software Engineering Fundamentals
+- Cloud & AI Concepts
+- Building better problem-solving skills
+
+🚀 Building:
+- Projects that solve real-world problems
+- Tools that make life simpler
+- Experiences that help me grow as an engineer
+
+🌟 Goals:
+- Contribute to impactful projects
+- Keep learning and building consistently
+- Grow into a well-rounded engineer and creator
+
+---
+
+## 🧩 Fun Facts
+
+♟️ I never say no to a game of chess.
+
+📚 My bookshelf grows faster than my free time.
+
+🏊 Some of my best ideas arrive while swimming.
+
+☁️ I love learning about a lot of different things, not just technology.
+
+✨ Curious by nature, builder by choice.
+
 ## 🏆 Achievements
 
 - Campus Ambassador, E-Cell IIT Bombay
